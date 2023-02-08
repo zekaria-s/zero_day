@@ -1,0 +1,1 @@
+ prints the name of the operating system when run without any option. For example, on a Linux system, it will print "Linux".
